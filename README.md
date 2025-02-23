@@ -1,7 +1,7 @@
 # 🧠 MindWorkshop
 
 ## 🚀 Overview
-**MindWorkshop** is a **scalable, robust, and secure** online bookstore platform designed to redefine the digital reading experience. Built with **Spring Boot, React, MySQL, and AWS**, this full-stack application ensures seamless browsing, secure transactions, and personalized recommendations for users who love books.
+**MindWorkshop** is a **scalable, robust, and secure** online bookstore platform designed to redefine the reading experience in Nepal. Built with **Spring Boot, React, MySQL, and AWS**, this full-stack application ensures seamless browsing, secure transactions, and personalized recommendations for Nepali users who love books and aims to promote reading culture in Nepal.
 
 This project embodies **clean code principles, scalable system architecture, and efficient database design**, making it an industry-standard application. It serves as a testament to my **backend engineering expertise, system design knowledge, and full-stack development proficiency**.
 
@@ -137,7 +137,7 @@ If you're interested in **discussing this project or collaborating**, feel free 
 ---
 
 ## 🔗 Connect with Me
-💼 [LinkedIn](https://www.linkedin.com/in/kabinshrestha/)  
-📧 [Email](mailto:kabin@example.com)  
-🌐 [Portfolio](https://kabinshrestha.dev)
+💼 [LinkedIn](https://www.linkedin.com/in/kabin7/)  
+📧 [Email](mailto:kabinworkspace7@gmail.com)  
+🌐 [Portfolio](https://kabinthapa.dev)
 
