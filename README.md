@@ -105,7 +105,7 @@ This project embodies **clean code principles, scalable system architecture, and
 ## 🛠️ How to Run Locally
 ### **1️⃣ Clone Repository**
 ```bash
-git clone https://github.com/kabinshrestha/MindWorkshop.git
+git clone https://github.com/Kabins-WorkSpace/MindWorkshop.git
 cd MindWorkshop
 ```
 
