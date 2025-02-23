@@ -1,3 +1,6 @@
+![The mind workshop logo semi](https://github.com/user-attachments/assets/2374f075-d928-41bd-9b2e-e3e1f39e8194)
+
+
 # 🧠 MindWorkshop
 
 ## 🚀 Overview
